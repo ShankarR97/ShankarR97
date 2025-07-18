@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShankarR97
+- 👋 Hi, I’m @Shankar
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Microsoft Azure, Python Programming
 - 🌱 I’m currently learning Artifcial Intelligence, Google Cloud Platform
 - 💞️ I’m looking to collaborate Mainly on Artificial Intelligence Technologies
